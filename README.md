@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Web3
 - 💬 Ask me about Web Development and Blockchain
 - 📧 How to reach me: ibrahim.ghasia@gmail.com 
-- 📄 Know about my experience here
+- 📄 Know about my experience <a href="https://drive.google.com/file/d/1x47bYncXv5Mm0M_E7rI3kA9fgZcoZGy8/view">here</a>
 - ⚡ Fun fact: I love Airplanes ✈️ and listing to music 🎷.
 
 <br>
