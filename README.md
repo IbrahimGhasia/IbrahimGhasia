@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am Ibrahim Ghasia from India</h1>
+<h1 align="center">Hi there 👋, I am Ibrahim Ghasia</h1>
 
 <img src="https://gpvc.arturio.dev/IbrahimGhasia">
 
