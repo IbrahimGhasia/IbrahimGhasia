@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Blockchain and Web3
 - 👯 I’m looking to collaborate on Web3
 - 💬 Ask me about Web Development and Blockchain
+- 💻 Checkout my portfolio <a href="https://ibrahim-ghasia.vercel.app/">here</a>
 - 📧 How to reach me: ibrahim.ghasia@gmail.com 
 - 📄 Know about my experience <a href="https://drive.google.com/file/d/1XRde8yxo8qDWb77s0mxM8RSNpz0knEKk/view?usp=sharing">here</a>
 - ⚡ Fun fact: I love Airplanes ✈️ and listing to music 🎷.
